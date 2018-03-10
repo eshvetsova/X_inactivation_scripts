@@ -1,10 +1,3 @@
----
-output:
-  html_document:
-    keep_md: yes
-  pdf_document: default
-  word_document: default
----
 # Scripts used in "Skewed X-inactivation is common in the general female population"
 
 **[heteroz-table-maker.sh](heteroz-table-maker.sh)** - this is the main script used for getting the table with paternal and maternal counts of each SNV in each female child, it incorporates the usage of all other scripts described below
